@@ -1,5 +1,5 @@
-# Base MongoDB image for arm64v8 architecture
-FROM arm64v8/mongo:4.4.3
+# Base MongoDB image
+FROM mongo:4.4.3
 
 # Set Username and Password
 ENV MONGO_INITDB_ROOT_USERNAME=SECRET_USERNAME
