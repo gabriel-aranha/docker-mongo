@@ -5,11 +5,11 @@
 ### Setup
 Clone this repository:
 ```
-$ git clone git@github.com:gabriel-aranha/pi-docker-mongo.git
+$ git clone git@github.com:gabriel-aranha/docker-mongo.git
 ```
 Enter the folder:
 ```
-$ cd pi-docker-mongo
+$ cd docker-mongo
 ```
 Edit the Dockerfile to set username(SECRET_USERNAME) and password(SECRET_PASSWORD):
 ```
