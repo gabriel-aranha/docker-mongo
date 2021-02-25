@@ -1,5 +1,5 @@
 # Base MongoDB image
-FROM mongo:4.4.3
+FROM mongo:latest
 
 # Set Username and Password
 ENV MONGO_INITDB_ROOT_USERNAME=SECRET_USERNAME
